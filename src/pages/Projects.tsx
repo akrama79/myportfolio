@@ -20,7 +20,7 @@ const Projects = () => {
       statusIcon: <CheckCircle className="text-green-400" size={16} />,
       color: "from-blue-500 to-cyan-500",
       liveUrl: "https://akama.in/",
-      repoUrl: "https://github.com/akrma79", // optional: set to project repo when available
+      repoUrl: "https://github.com/akrama79", // optional: set to project repo when available
       featured: true
     },
     {
@@ -164,7 +164,7 @@ const Projects = () => {
                       </a>
                     )}
                     <a
-                      href={project.repoUrl ?? "https://github.com/akrma79"}
+                      href={project.repoUrl ?? "https://github.com/akrama79"}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center text-gray-400 hover:text-gray-300 transition-colors"

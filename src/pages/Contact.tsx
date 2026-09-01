@@ -51,7 +51,7 @@ const Contact = () => {
                 LinkedIn Profile
               </a>
               <a
-                href="https://github.com/akrma79"
+                href="https://github.com/akrama79"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-gray-300 hover:text-blue-400 transition-colors"

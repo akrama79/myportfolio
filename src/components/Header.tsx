@@ -55,7 +55,7 @@ const Header = () => {
               <a href="mailto:akramanadim79@gmail.com" className="text-gray-400 hover:text-blue-400 transition-colors" aria-label="Email me">
                 <Mail size={20} />
               </a>
-              <a href="https://github.com/akrma79" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors" aria-label="GitHub profile">
+              <a href="https://github.com/akrama79" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors" aria-label="GitHub profile">
                 <Github size={20} />
               </a>
               <a href="https://www.linkedin.com/in/akrama-nadim-560216222/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors" aria-label="LinkedIn profile">
